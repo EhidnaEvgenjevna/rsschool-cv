@@ -33,10 +33,10 @@ Study discontinued due to EPAM and EHU collaboration stopping.
 * BA in Management, St. Petersburg State University of Economics, St. Petersburg, Russia
 September 1998 - August 2003
 
-# ** My Projects**
+# * My Projects*
 * I played the role of a business analyst when adapting the accounting system at the enterprise.
 
-# **code examples**#
+# **code examples**
 ```javascript
 function booleanToString(b){
     if (b === true) {
