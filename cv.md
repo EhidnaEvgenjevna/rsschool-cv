@@ -1,15 +1,15 @@
 **Kulieva Anna**
-![](C:\Users\User\Pictures\Desktop\photo_2024-06-30_18-43-1)
+![Alt my foto](images/my photo.jpg)
 **Phone:** +370 685 81374
 **Email address:** kulievaannaspb@gmail.com
 **Citizenship & residence:** Israel, Russia, Lithuania (temporary residence permit)
 **Languages:** English: B1 (IELTS); Lithuanian: A1 (Certificate); Russian: Native
 **Skills:** JS, Git, Linux, Python, Bash, SQL, Excel, Jira, Confluence
 
-# **Professional summary**#
+# **Professional summary**
 A manager and financier in commerce (11 years) and construction (8 years) who decided to start her
 journey in IT.
-# **Professional experience**#
+# **Professional experience**
 *CFO, Sevzapmontazh, LLC Constructions, St. Petersburg, Russia*
 December 2013 – March 2022
 * Development of the company's financial strategy
@@ -26,7 +26,7 @@ October 2003 - June 2006
 * Financial accounting
 * Preparation of tax reports
 
-# **Education**#
+# **Education**
 * BA in Computer Science, EHU/EPAM School of Digital Engineering, Vilnius, Lithuania
 October 2023 - April 2024
 Study discontinued due to EPAM and EHU collaboration stopping.
@@ -34,7 +34,7 @@ Study discontinued due to EPAM and EHU collaboration stopping.
 * BA in Management, St. Petersburg State University of Economics, St. Petersburg, Russia
 September 1998 - August 2003
 
-# ** My Projects**#
+# ** My Projects**
 * I played the role of a business analyst when adapting the accounting system at the enterprise.
 
 # **code examples**#
