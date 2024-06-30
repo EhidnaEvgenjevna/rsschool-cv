@@ -1,5 +1,5 @@
 **Kulieva Anna**
-**Phone:** +370 685 81374
+**Phone:** +37068581374
 **Email address:** kulievaannaspb@gmail.com
 **Citizenship & residence:** Israel, Russia, Lithuania (temporary residence permit)
 **Languages:** English: B1 (IELTS); Lithuanian: A1 (Certificate); Russian: Native
