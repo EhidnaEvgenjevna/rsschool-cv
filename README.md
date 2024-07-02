@@ -1,2 +1,2 @@
 # rsschool-cv
-https://ehidnaevgenjevna.github.io/rsschool-cvgit add
+https://ehidnaevgenjevna.github.io/rsschool-cv
